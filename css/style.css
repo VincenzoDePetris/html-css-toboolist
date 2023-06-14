@@ -84,37 +84,32 @@ span{
 }
 
 .etichetta{
+    color: white;
     padding: 5px;
     font-size: small;
     border-radius: 10px;
 }
 
 .editorial{
-    color: white;
     background-color: rgb(0, 102, 212);
 }
 
 .goals{
-    color: white;
     background-color: rgb(123, 25, 123);
 }
 
 .recruiting{
-    color: white;
     background-color: rgb(130, 197, 130);
 }
 
 .mobile{
-    color: white;
     background-color: rgb(173, 131, 52);
 }
 
 .Website{
-    color: white;
     background-color: rgb(208, 21, 208);
 }
 
 .sales{
-    color: white;
     background-color: rgb(130, 198, 29);
 }
