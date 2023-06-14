@@ -91,12 +91,12 @@ span{
 
 .editorial{
     color: white;
-    background-color: blue;
+    background-color: rgb(0, 102, 212);
 }
 
 .goals{
     color: white;
-    background-color: purple;
+    background-color: rgb(123, 25, 123);
 }
 
 .recruiting{
@@ -106,15 +106,15 @@ span{
 
 .mobile{
     color: white;
-    background-color: orange;
+    background-color: rgb(173, 131, 52);
 }
 
 .Website{
     color: white;
-    background-color: fuchsia;
+    background-color: rgb(208, 21, 208);
 }
 
 .sales{
     color: white;
-    background-color: greenyellow;
+    background-color: rgb(130, 198, 29);
 }
